@@ -1,1 +1,3 @@
-nodenode_modules/
+
+grep '.env$'
+node_modules/

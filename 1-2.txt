@@ -1,0 +1,7 @@
+1. kérdés: 
+integer - egész számok
+char - karakterek
+boolean - logikai érték true-false
+float - lebegőpontos változó
+2. kérdés:
+toString  - string-é alakítják annak a változónak a típusát, melyikre meghívjuk őket

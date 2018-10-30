@@ -1,0 +1,78 @@
+ 1996  gedit
+ 1997  cd Desktop/
+ 1998  cd 1.szakaszzáró\ teszt/
+ 1999  node p8-fibonacci.js 
+ 2000  git clone https://github.com/rartaat/1.roundExam.git
+ 2001  ls
+ 2002  cd 1.roundExam/
+ 2003  cp -R ../../1.szakaszzáró\ teszt/
+ 2004  cp -R ../../1.szakaszzáró\ teszt/ ./
+ 2005  touch p3-osszeadas.js
+ 2006  touch p4-megszamlalas.js
+ 2007  touch p5-switch.js
+ 2008  touch p6-unio.js
+ 2009  touch p7-muveletek.js
+ 2010  touch p7-szamologep.js
+ 2011  p8-fibonacci.js
+ 2012  touch p8-fibonacci.js
+ 2013  git branch
+ 2014  git checkout
+ 2015  git checkout -b dev
+ 2016  git checkout -b Rencso6
+ 2017  git branch
+ 2018  git checkout branch
+ 2019  git branch 
+ 2020  git add .
+ 2021  git commit -m "almost"
+ 2022  git checkout dev
+ 2023  history
+ 2024  git branch
+ 2025  git checkout -b feature
+ 2026  git branch
+ 2027  ls
+ 2028  git checkout Rencso6 
+ 2029  ls
+ 2030  git add .
+ 2031  git commit -m "teszt"
+ 2032  git checkout feature 
+ 2033  git merge Rencso6 
+ 2034  history
+ 2035  git push -u origin feature
+ 2036  git checkout -b master
+ 2037  git branch
+ 2038  git checkout feature 
+ 2039  node .gitignore
+ 2040  .gitignore
+ 2041  node
+ 2042  ls -la
+ 2043  cd ..
+ 2044  cd Flow\ képzés/Sliding_puzzle/
+ 2045  ls -la
+ 2046  cd ..
+ 2047  cd..
+ 2048  cd ..
+ 2049  cd 1.szakaszzáró\ teszt/1.roundExam
+ 2050  ls -la
+ 2051  touch .gitignore
+ 2052  ls -la
+ 2053  node .gitignore 
+ 2054  code .gitignore 
+ 2055  echo "node_modules/" >> .gitignore
+ 2056  git branch
+ 2057  git add .
+ 2058  git commit -m "master"
+ 2059  git checkout master 
+ 2060  git merge feature 
+ 2061  git push -u origin master 
+ 2062  git branch
+ 2063  git checkout Rencso6 
+ 2064  git branch
+ 2065  gedit
+ 2066  ls
+ 2067  echo "grep 'sor$'" >> .gitignore
+ 2068  echo "grep '.env$'" >> .gitignore
+ 2069  code .gitignore 
+ 2070  echo "node_modules/" >> .gitignore
+ 2071  touch history.log
+ 2072  code history.log 
+ 2073  history
