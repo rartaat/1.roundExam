@@ -1,4 +1,4 @@
-var fibonacci = (szamok) => {
+let fibonacci = (szamok) => {
   if (szamok < 2) {
     return szamok;
   } else {
@@ -6,6 +6,6 @@ var fibonacci = (szamok) => {
   }
 };
 
-for (var i = 0; i < 100; i++) {
+for (let i = 0; i < 100; i++) {
   fibonacci();
 }
