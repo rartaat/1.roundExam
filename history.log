@@ -72,7 +72,31 @@
  2067  echo "grep 'sor$'" >> .gitignore
  2068  echo "grep '.env$'" >> .gitignore
  2069  code .gitignore 
+ 2065  gedit
+ 2066  ls
+ 2067  echo "grep 'sor$'" >> .gitignore
+ 2068  echo "grep '.env$'" >> .gitignore
+ 2069  code .gitignore 
  2070  echo "node_modules/" >> .gitignore
  2071  touch history.log
  2072  code history.log 
  2073  history
+ 2074  git branch
+ 2075  git add .
+ 2076  git commit -m "finaly?"
+ 2077  git checkout master
+ 2078  git push -u origin master 
+ 2079  git checkout Rencso6 
+ 2080  git checkout master 
+ 2081  git merge Rencso6 
+ 2082  code .gitignore 
+ 2083  git add .
+ 2084  git commit -m "finally2?"
+ 2085  git push -u origin master 
+ 2086  ls
+ 2087  git branch
+ 2088  code p8-fibonacci.js 
+ 2089  git add .
+ 2090  git commit -m "final_try"
+ 2091  git push -u origin master 
+ 2092  history
